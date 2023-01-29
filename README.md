@@ -1,6 +1,7 @@
 # QuickQuiz!
 
-This is a tool made for teachers create quick quiz to second graders and below.
+This is a tool made for teachers create quick quiz to second graders and below. 
+Using OpenAI API , node.js, and react libaries.  
 
 
 
